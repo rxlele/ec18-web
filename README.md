@@ -22,11 +22,18 @@ Questa parte del sistema è usata dall’amministratore per la gestione degli ar
 
 Inoltre, l’amministratore ha la possibilità di:
 - Modificare o aggiungere un prodotto
+
+<img src="asset/backend_aggiungiprodotto.png">
+
 - Visualizzazione statistiche
   - Vendite
+    <img src="asset/backend_visvendite.jpg">
   - Incassi
+    <img src="asset/backend_visincassi.png">
   - Più cliccati
+      <img src="asset/backend_viscliccati.jpg">
   - Feedback
+    <img src="asset/backend_visfeedback.jpg">
   
 # Front-End
 
