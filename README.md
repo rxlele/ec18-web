@@ -31,6 +31,7 @@ Inoltre, l’amministratore ha la possibilità di:
   - Incassi
     <img src="asset/backend_visincassi.png">
   - Più cliccati
+  
       <img src="asset/backend_viscliccati.jpg">
   - Feedback
     <img src="asset/backend_visfeedback.jpg">
@@ -42,11 +43,31 @@ Questa parte del sistema è usata da un utente per effettuare tutte le operazion
 
 Le operazioni effettuate dall’utente sono:
 - Login/Registrazione
+
+  <img src="asset/frontend_login.jpg">
+  
+  <img src="asset/frontend_reg.jpg">  
+  
 - Ricercare un prodotto tramite filtri avanzati
+
+    <img src="asset/frontend_ricerca.jpg">
+    
 - Visualizzare i dettagli dei prodotti
+
+  <img src="asset/frontend_visprodotto.jpg">
+  
 - Acquistare dei prodotti con gestione del carrello e dei pagamenti
+
+    <img src="asset/frontend_carrello.jpg">
+    
 - Rilasciare una valutazione sui prodotti acquistati 
+
+    <img src="asset/frontend_aggiungifeed.jpg">
+    
 - Visualizzare e modificare i dati utente
+
+    <img src="asset/frontend_datiutente.jpg">
+
 
 # Tecnologie
 
