@@ -45,9 +45,26 @@ Le operazioni effettuate dall’utente sono:
 
 In questa sezione verranno elencate ed analizzate alcune delle tecnologie utilizzate per lo sviluppo dell’e-commerce.
 
-- ### AWS
+- ##### AWS
+  Amazon Web Services è una piattaforma che offre una vasta gamma di servizi cloud-based,       come ad esempio elaborazione, storage, database, reti, analisi, machine learning, intelligenza artificiale, Internet of Things, sicurezza e sviluppo di applicazioni, distribuzione e gestione. Questa grande selezione di servizi e funzionalità rendono più semplice, veloce ed economica la migrazione di app esistenti al cloud e permettono la progettazione di qualsiasi cosa.
+  
+  Servizi:
+    - Cognito
+    - EC2
+    - Elastic Beanstalk
+    - RDS
+    - S3
+    
+- ##### PostgreSQL
 
-Amazon Web Services è una piattaforma che offre una vasta gamma di servizi cloud-based, come ad esempio elaborazione, storage, database, reti, analisi, machine learning, intelligenza artificiale, Internet of Things, sicurezza e sviluppo di applicazioni, distribuzione e gestione. Questa grande selezione di servizi e funzionalità rendono più semplice, veloce ed economica la migrazione di app esistenti al cloud e permettono la progettazione di qualsiasi cosa.
+  PostgreSQL è un completo DBMS ad oggetti rilasciato con licenza libera. PostgreSQL usa il linguaggio SQL per eseguire delle query sui dati. Questi sono conservati come una serie di tabelle con chiavi esterne che servono a collegare i dati correlati.
+
+- ##### Apache Tomcat
+
+  Apache Tomcat è un web server open source che implementa le specifiche JavaServerPages (JSP) e servlet, fornendo quindi una piattaforma software per l'esecuzione di applicazioni Web sviluppate in linguaggio Java. La sua distribuzione standard include anche le funzionalità di web server tradizionale.
+
+
+
 
 
 
